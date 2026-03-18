@@ -1,0 +1,11 @@
+{
+  "cafe": { "key": "amenity", "value": "cafe" },
+  "restaurante": { "key": "amenity", "value": "restaurant" },
+  "barberia": { "key": "shop", "value": "hairdresser" },
+  "peluqueria": { "key": "shop", "value": "hairdresser" },
+  "parque": { "key": "leisure", "value": "park" },
+  "farmacia": { "key": "amenity", "value": "pharmacy" },
+  "hospital": { "key": "amenity", "value": "hospital" },
+  "banco": { "key": "amenity", "value": "bank" },
+  "supermercado": { "key": "shop", "value": "supermarket" }
+}
